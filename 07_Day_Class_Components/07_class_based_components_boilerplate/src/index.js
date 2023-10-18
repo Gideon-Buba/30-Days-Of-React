@@ -192,3 +192,4 @@ class App extends React.Component {
 const rootElement = document.getElementById('root')
 ReactDOM.render(<App />, rootElement)
 
+{/* Completed Day 7 */}
