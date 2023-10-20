@@ -254,3 +254,7 @@ class App extends React.Component {
 
 const rootElement = document.getElementById('root')
 ReactDOM.render(<App />, rootElement)
+
+
+// Completed day 8 on replit
+
