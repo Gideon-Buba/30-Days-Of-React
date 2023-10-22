@@ -8,3 +8,10 @@ import './styles/index.css'
 
 const rootElement = document.getElementById('root')
 ReactDOM.render(<App />, rootElement)
+
+
+(/* Completed Day 10 tasks on Replit 
+    Learnt a lot about react file structure
+*/)
+
+
